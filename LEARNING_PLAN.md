@@ -461,9 +461,9 @@
 
 | 资源 | 类型 | 对应内容 | 链接 |
 |------|------|---------|------|
-| Andrej Karpathy's Blog | 博客 | RNN、Char RNN (Paper 2) | [karpathy.github.io](http://karpathy.github.io/) |
+| Andrej Karpathy's Blog | 博客 | RNN、Char RNN (Paper 2) | [karpathy.github.io](https://karpathy.github.io/) |
 | Christopher Olah's Blog | 博客 | LSTM (Paper 3)、Attention | [colah.github.io](https://colah.github.io/) |
-| The Annotated Transformer | 教程 | Transformer (Paper 13) | [nlp.seas.harvard.edu](http://nlp.seas.harvard.edu/annotated-transformer/) |
+| The Annotated Transformer | 教程 | Transformer (Paper 13) | [nlp.seas.harvard.edu](https://nlp.seas.harvard.edu/annotated-transformer/) |
 | Ilya Sutskever's Reading List | 论文集 | 全部 30 篇原始论文 | [GitHub](https://github.com/dzyim/ilya-sutskever-recommended-reading) |
 | Aman's AI Journal Primers | 教程 | 所有论文速览 | [aman.ai](https://aman.ai/primers/ai/top-30-papers/) |
 
