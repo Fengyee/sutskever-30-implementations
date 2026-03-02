@@ -335,6 +335,12 @@ sutskever-30-implementations/
 
 ## Learning Path
 
+### 📅 4-Week Structured Learning Plan
+
+For a comprehensive, day-by-day study plan with spaced repetition, weekly self-tests, and difficulty progression, see **[LEARNING_PLAN.md](LEARNING_PLAN.md)**.
+
+> Designed for learners with a CS background who want to systematically master all 30 papers in 4 weeks (≤ 1 hour/day).
+
 ### Beginner Track (Start here!)
 1. **Character RNN** (`02_char_rnn_karpathy.ipynb`) - Learn basic RNNs
 2. **LSTM** (`03_lstm_understanding.ipynb`) - Understand gating mechanisms
