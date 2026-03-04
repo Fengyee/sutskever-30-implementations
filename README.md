@@ -6,6 +6,8 @@
 [![Coverage](https://img.shields.io/badge/Coverage-100%25-blue)](https://github.com/pageman/sutskever-30-implementations)
 [![Python](https://img.shields.io/badge/Python-NumPy%20Only-yellow)](https://numpy.org/)
 
+[**Buy the Google Colab Code for this Repo at Gumroad**](https://pageman.gumroad.com/l/sutskever30colabcode)
+
 ## Overview
 
 This repository contains detailed, educational implementations of the papers from Ilya Sutskever's famous reading list - the collection he told John Carmack would teach you "90% of what matters" in deep learning.
